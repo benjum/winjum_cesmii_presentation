@@ -3,3 +3,5 @@ altair
 altair_latimes
 plotly
 ipywidgets
+numpy
+matplotlib
