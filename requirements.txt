@@ -1,0 +1,5 @@
+pandas
+altair
+altair_latimes
+plotly
+ipywidgets
